@@ -1,0 +1,70 @@
+# IP and MAC address details have been intentionally redacted for privacy and security reasons.
+
+Nmap scan report for Device-A
+Host is up (latency: ~0.04s).
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+22/tcp   open  ssh
+53/tcp   open  domain
+80/tcp   open  http
+443/tcp  open  https
+1900/tcp open  upnp
+MAC Address: [REDACTED]
+
+---
+
+Nmap scan report for Device-B
+Host is up (latency: ~0.02s).
+All 1000 scanned ports are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: [REDACTED]
+
+---
+
+Nmap scan report for Device-C
+Host is up (latency: ~0.02s).
+All 1000 scanned ports are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: [REDACTED]
+
+---
+
+Nmap scan report for Device-D
+Host is up (latency: ~0.02s).
+Not shown: 994 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+7000/tcp open  afs3-fileserver
+8008/tcp open  http
+8009/tcp open  ajp13
+8443/tcp open  https-alt
+9000/tcp open  cslistener
+MAC Address: [REDACTED]
+
+---
+
+Nmap scan report for Device-E
+Host is up (latency: ~0.01s).
+Not shown: 999 closed tcp ports (reset)
+PORT     STATE    SERVICE
+5060/tcp filtered sip
+MAC Address: [REDACTED]
+
+---
+
+Nmap scan report for Device-F
+Host is up (latency: ~0.0008s).
+Not shown: 995 closed tcp ports (reset)
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3306/tcp open  mysql
+5357/tcp open  wsdapi
+MAC Address: [REDACTED]
+
+---
+
+Nmap done: 256 IP addresses (6 hosts up) scanned.
+
+
