@@ -8,8 +8,8 @@ pretty cool to actually see what a port scan *looks like* in Wireshark.
 ---
 
 ## tools I used
-- Nmap (for scanning)
-- Wireshark (for analyzing packets)
+- [Nmap](https://nmap.org/) – For scanning devices and ports
+- [Wireshark](https://www.wireshark.org/) – For analyzing packet-level traffic
 - Windows 11
 
 ---
